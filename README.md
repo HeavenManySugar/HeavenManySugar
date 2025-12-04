@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeavenManySugar&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HeavenManySugar&layout=compact&theme=dracula&hide=roff" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.zre.tw/api?username=HeavenManySugar&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.zre.tw/api/top-langs?username=HeavenManySugar&layout=compact&theme=dracula&hide=roff" height="150" alt="languages graph"  />
 </div>
 
 ###
